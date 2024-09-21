@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Isabelle
+- 👀 I’m interested in building stron ML projects
+- 🌱 I’m currently learning reinforcement models
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Im a guitarist :)
